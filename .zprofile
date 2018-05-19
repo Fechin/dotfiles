@@ -34,3 +34,6 @@ export all_proxy=socks5://127.0.0.1:6153
 export PYENV_ROOT=$HOME/.pyenv
 export PATH=$PATH:$PYENV_ROOT/bin
 eval "$(pyenv init -)"
+
+# brew priority(such as vim..)
+export PATH=/usr/local/bin:$PATH

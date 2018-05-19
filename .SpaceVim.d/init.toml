@@ -23,7 +23,6 @@
     buffer_index_type = 4
     enable_tabline_filetype_icon = true
     statusline_display_mode = false
-    timeoutlen = 10
 
 # Enable autocomplete layer
 [[layers]]
@@ -35,6 +34,10 @@ auto-completion-tab-key-behavior = "smart"
 name = 'lang#python'
 
 [[layers]]
-name = 'shell'
-default_position = 'top'
-default_height = 30
+name = 'lang#java'
+
+[[layers]]
+name = 'debug'
+
+[[layers]]
+name = 'ctrlp'

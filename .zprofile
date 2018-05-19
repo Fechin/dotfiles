@@ -17,13 +17,13 @@ export PATH=$PATH:$SCALA_HOME/bin
 export M3_HOME=$HOME/work/opt/apache-maven-3.5.3
 export PATH=$PATH:$M3_HOME/bin
 
-# Java
+# Default java
 export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home
 export PATH=$PATH:$JAVA_HOME/bin
 
-# Switch Java
-alias java8="export JAVA_HOME=`/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home`; java -version"
-alias java10="export JAVA_HOME`/Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home`; java -version"
+# Switching easily between java jdks
+alias jdk8="export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home; java -version"
+alias jdk10="export JAVA_HOME/Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home; java -version"
 
 # Surge proxy
 export https_proxy=http://127.0.0.1:6152

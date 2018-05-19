@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/Fechin/work/ideaproj/td/dss-python-engine/global-server/conf'
+let g:netrw_dirhist_2='/Users/Fechin/work/ideaproj/td/dss-python-engine/python2-platform/thrift-file/gen-java'
+let g:netrw_dirhist_3='/Users/Fechin/work/ideaproj/td/dss-python-engine/python2-platform/thrift-file'
+let g:netrw_dirhist_4='/Users/Fechin/work/ideaproj/td/dss-python-engine/python2-platform/adhoc'
+let g:netrw_dirhist_5='/Users/Fechin/work/ideaproj/td/dss-python-engine/python2-platform'

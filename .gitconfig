@@ -1,0 +1,16 @@
+[user]
+	name = Fechin
+	email = mr.fechin@gmail.com
+[credential]
+    helper = cache
+[color]
+	ui = true
+[core]
+	editor = vim
+    filemode = false
+[merge]
+	tool = vimdiff
+[alias]
+	st = status
+	ci = commit
+	co = checkout

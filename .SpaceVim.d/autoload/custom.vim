@@ -18,4 +18,7 @@ endf
 " 设置[Space]按键等待时间
 func! custom#after() abort
   set timeoutlen=300
+  " Use deoplete.
+  let g:python_host_prog = '/Users/Fechin/.pyenv/versions/2.7.15/bin/python'
+  let g:python3_host_prog = '/Users/Fechin/.pyenv/versions/3.6.5/bin/python3'
 endf

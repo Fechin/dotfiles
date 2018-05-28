@@ -39,4 +39,4 @@ eval "$(pyenv init -)"
 export PATH=/usr/local/bin:$PATH
 
 # decision vim python version
-export PYTHONPATH=/Users/Fechin/.pyenv/versions/2.7.15/lib/python2.7/site-packages:$PYTHONPATH
+#export PYTHONPATH=/Users/Fechin/.pyenv/versions/2.7.15/lib/python2.7/site-packages:$PYTHONPATH

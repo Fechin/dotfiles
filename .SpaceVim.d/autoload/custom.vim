@@ -21,4 +21,5 @@ func! custom#after() abort
   " Use deoplete.
   let g:python_host_prog = '/Users/Fechin/.pyenv/versions/2.7.15/bin/python'
   let g:python3_host_prog = '/Users/Fechin/.pyenv/versions/3.6.5/bin/python3'
+  let g:deoplete#auto_complete_start_length = 1
 endf

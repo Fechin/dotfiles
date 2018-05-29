@@ -1,9 +1,5 @@
 "=============================================================================
-" vimrc --- Entry file for vim
-" Copyright (c) 2016-2017 Shidong Wang & Contributors
-" Author: Shidong Wang < wsdjeg at 163.com >
-" URL: https://spacevim.org
-" License: GPLv3
+" SpaceVim bootstrap method
 "=============================================================================
 
 " 设置插入时的光标样式

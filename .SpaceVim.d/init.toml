@@ -9,8 +9,8 @@
 # All SpaceVim option below [option] section
 [options]
     # custom config
-    bootstrap_before = "custom#before"
-    bootstrap_after = "custom#after"
+    bootstrap_before = "bootstrap#before"
+    bootstrap_after = "bootstrap#after"
     # set spacevim theme. by default colorscheme layer is not loaded,
     # if you want to use more colorscheme, please load the colorscheme
     # layer

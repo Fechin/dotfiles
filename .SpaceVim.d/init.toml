@@ -54,6 +54,7 @@ name = 'ctrlp'
 [[layers]]
 name = 'colorscheme'
 
+# Python autocomplete plugin
 [[custom_plugins]]
 name = "zchee/deoplete-jedi"
 

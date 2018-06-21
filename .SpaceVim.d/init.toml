@@ -23,6 +23,7 @@
     # install nerd fonts
     statusline_separator = "arrow"
     statusline_inactive_separator = "arrow"
+    default_indent = 4
     buffer_index_type = 4
     windows_index_type = 3
     enable_tabline_filetype_icon = true

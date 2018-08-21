@@ -40,9 +40,6 @@ auto-completion-tab-key-behavior = "smart"
 name = 'lang#python'
 
 [[layers]]
-name = 'lang#java'
-
-[[layers]]
 name = 'debug'
 
 [[layers]]

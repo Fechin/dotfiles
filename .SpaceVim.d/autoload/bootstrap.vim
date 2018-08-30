@@ -26,6 +26,8 @@ func! bootstrap#before() abort
     \ '\.class$',
     \ '\.pyc$',
     \ '^__pycache__$',
+    \ '^node_modules$',
+    \ '^package-lock.json$',
     \ '^\.'
     \])
 
